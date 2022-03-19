@@ -1,0 +1,13 @@
+.totalBox {
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.2em;
+  color: #7bf762;
+}
+.price {
+  color: white;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.2em;
+  margin-right: 16px;
+}
